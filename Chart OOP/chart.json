@@ -1,0 +1,12 @@
+{
+    "pieData": {
+      "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+      "data": [12, 19, 3, 5, 2, 3]
+    },
+    "lineData": {
+      "labels": ["January", "February", "March", "April", "May", "June"],
+      "data": [20, 30, 15, 25, 40, 35]
+    }
+  }
+  
+  
